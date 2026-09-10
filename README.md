@@ -335,7 +335,7 @@ navdrishti/
 | **Ayush** | `Model Trainer` | Trajectory Prediction & Deep Sensor Fusion (BEVFormer) |
 | **Rituraj** | `Simulation Eng.` | SUMO Road Network Synthesis, CARLA Non-Linear Vehicle Dynamics & Digital Twin Integration |
 | **Shweta** | `Presenter` | Executive Pitching, Live Product Demonstration & Strategic System Narrative |
-| **Shreya** | `Debug Eng.` | Closed-Loop Fault Analysis, Validation & Functional Safety |
+| **Shambhavi** | `Debug Eng.` | Closed-Loop Fault Analysis, Validation & Functional Safety |
 
 ---
 

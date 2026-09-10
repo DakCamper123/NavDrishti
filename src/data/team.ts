@@ -65,9 +65,9 @@ export const TEAM_MEMBERS: TeamMember[] = [
     badges: ['Pitch Lead', 'Product Vision', 'Demo Master'],
   },
   {
-    id: 'shreya',
-    name: 'Shreya',
-    initials: 'SR',
+    id: 'shambhavi',
+    name: 'Shambhavi',
+    initials: 'SB',
     role: 'Debug Eng.',
     subTag: 'Closed-Loop Validation & Fault Analysis',
     focusArea: 'Closed-Loop Fault Analysis, Validation & Functional Safety',
